@@ -1,4 +1,2 @@
-Github
-
-Este é o arquivo renomeado
+Github com novo arquivo.
 
